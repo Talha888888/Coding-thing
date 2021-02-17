@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Class #02</title>
+    </head>
+    <body>
+       <table cellspacing="0" cellpadding="0" border="0" bgcolor="red" height="300" width="800">
+           <tr>
+               <td>
+                   <table cellspacing="0" cellpadding="0" border="0"  height="100" width="800" bgcolor="blue">
+                       <tr>
+                           <td height="100" width="400" bgcolor="#FFAB40"></td>
+                           <td>
+                               <table cellspacing="0" cellpadding="0" border="0" height="100" width="400" bgcolor="#4E342E">
+                                   <tr>
+                                       <td height="50" width="400" bgcolor="#AB47BC"></td>
+                                   </tr>
+                                   <tr>
+                                       <td>
+                                           <table cellspacing="0" cellpadding="0" border="0" height="50" width="400" bgcolor="#C2185B">
+                                               <tr>
+                                                   <td height="50" width="200" bgcolor="#66BB6A"></td>
+                                                   <td height="50" width="200" bgcolor="#33691E"></td>
+                                               </tr>
+                                           </table>
+                                       </td>
+                                   </tr>
+                               </table>
+                           </td>
+                       </tr>
+                   </table>
+               </td>
+           </tr>
+
+            <tr>
+                <td height="100" width="800" bgcolor="gray"></td>
+            </tr>
+
+            <tr>
+                <td height="100" width="800" bgcolor="pink"></td>
+            </tr>
+       </table>
+    </body>
+</html>
+
+
+
+
